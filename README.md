@@ -1,14 +1,63 @@
-# Python Introduction
-## Python Variables
-### Github set up with HTTPS
+## Python Installation
+
+Visit the Python website linked below and find the latest version to download.
+
+[Python download](https://www.python.org/downloads/)
 
 
+Once on the website, select the gold download tab at the top of the page selcting the correct operating system you are using. 
+
+## Installing on Mac 
+**Step 1:** Once downloaded run the installer on your local machine by double clicking the package. 
+
+**Step 2:** The installer will display a software wizard that will guide you on the different steps you need to follow to complete the installation
+
+**Step 3** When the installation is finished, you'll be shown the Python folder. You can verify if Python and IDLE were installed correctly. To do that, double click on the IDLE file; if the installation is successful, you'll be shown the Python shell.
 
 
-- add image
-- ![](path of the image)
+# Pycharm Installation
 
-- Add a block of code 
+To download Pycharm follow the links below, selecting the correct operating system you are using.
+Note: Download Community Edition
+
+[Pycharm Mac download](https://www.jetbrains.com/pycharm/download/#section=mac)
+
+[Pycharm windows download](https://www.jetbrains.com/pycharm/download/#section=windows)
+
+[Pycharm Linux download](https://www.jetbrains.com/pycharm/download/#section=linux)
+
+
+**Step 1:** Once downloaded, drag and drop the application into the Applications folder.
+
+**Step 2:** Select Open when your trying to run the app for the first time.
+
+**Step 3** Confirm the Privacy Policy once you have read the User Agreement and test if PyCharm works by running the program.
+
+
+# Python introduction 
+
+Python is a general purpose programming language often used in a range of applications including data science, software and web development and automation. 
+
+### Python Variables
+A variable is a container used to store data values. Example of a Python variable:
+````
+Number = '50'
+Print(Number)
+Output: 50
+````
+
+### Taking User input
+
+Python provides a function called input which takes an input from the user to receive information and then stores it into a variable name.
+````
+User input example:
+
+name = input()
+print(name)
+
+````
+The above example asks for the users name, when the name is entered, it will then get printed to the screen.
+
 
 ````
 # take user input with method called input()
